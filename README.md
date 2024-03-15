@@ -10,7 +10,7 @@ I am dedicated to developing explainable and efficient AI solutions to automate 
 
 You can view and download my CV by clicking on the link below:
 
-- [Download CV](link-to-your-cv.pdf)
+- [Download CV](https://github.com/yasaminzarghami/yasaminzarghami-cv/blob/main/cv_spring.pdf)
 
 ## Contact
 
